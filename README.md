@@ -20,10 +20,18 @@ NEZHA_KEY： 哪吒 ， 可选，有平台封杀，建议不设置
 
 （哪吒默认端口443，tls）
 
-**三、argo设置：**
+**三、简单说下各平台部署方法：**
+
+有些平台直接引用本库即可,如render
+
+有些平台直接引用docker地址daxia2023/ndjs:user-30-argo-nez2即可,如patr
+
+可参考：https://github.com/dsadsadsss/x-docker.git
+
+**四、argo设置：**
 
 端口设置：如果没改默认7860，改了就设置你改的端口
 
-**四、XYAY设置：**
+**五、XYAY设置：**
 
 协议vless ws tls 路径/,不开mux，可以套CF
