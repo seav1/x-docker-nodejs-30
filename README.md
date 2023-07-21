@@ -26,4 +26,4 @@ NEZHA_KEY： 哪吒 ， 可选，有平台封杀，建议不设置
 
 **四、XYAY设置：**
 
-协议vless ws tls 路径/,不开mux
+协议vless ws tls 路径/,不开mux，可以套CF
